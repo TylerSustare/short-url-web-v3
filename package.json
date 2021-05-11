@@ -11,7 +11,7 @@
     "core-js": "^3.6.5",
     "alertifyjs": "^1.11.2",
     "axios": "^0.18.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "material-components-web": "^1.0.1",
     "v-tooltip": "^2.0.2",
     "vue-axios": "^2.1.4",
